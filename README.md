@@ -1,2 +1,2 @@
 # New Ranger created
-created by hrusi
+created by hrushi
